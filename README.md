@@ -16,16 +16,20 @@ A responsive Todo List application built using React.
 
 ```bash
 npm install
+npm start
+```
 
 ## 📸 Screenshot
 
 Below is a preview of the Todo App interface:
 
-npm start<img width="1914" height="989" alt="Screenshot 2026-03-28 230914" src="https://github.com/user-attachments/assets/32a967bc-b2b4-44a7-8d58-48fdf7dbf94b" />
+![Todo App Screenshot](https://github.com/user-attachments/assets/5d196de8-9e8a-4a93-9180-b243e823951d)
 
-<img width="1905" height="998" alt="Screenshot 2026-03-28 231124" src="https://github.com/user-attachments/assets/8db9178a-5f38-46a4-af08-971e7d28870e" />
+### Tasks View
+![Todo App Screenshot](https://github.com/user-attachments/assets/30b6a8c3-8cf2-420a-b28d-040fed44d612)
 
-<img width="1897" height="996" alt="Screenshot 2026-03-28 231353" src="https://github.com/user-attachments/assets/5b4c60d4-b8f5-4299-9cc7-39b0b1c34a1d" />
+### Full UI View
+![Todo App Screenshot](https://github.com/user-attachments/assets/03ef0bb5-efe4-423d-a1ad-c8a5d7c1d456)
 
 ## 📌 Author
 - Jahnavi P S
