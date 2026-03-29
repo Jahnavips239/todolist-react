@@ -31,5 +31,8 @@ Below is a preview of the Todo App interface:
 ### Full UI View
 ![Todo App Screenshot](https://github.com/user-attachments/assets/03ef0bb5-efe4-423d-a1ad-c8a5d7c1d456)
 
+## 🌐 Live Demo
+https://todolist-react-zeta.vercel.app
+
 ## 📌 Author
 - Jahnavi P S
